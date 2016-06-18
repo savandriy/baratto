@@ -6,7 +6,7 @@ from webmoney import get_webmoney_course
 from chexch import get_chexch_course
 from mastercard import get_mastercard_course
 from visa import get_visa_course
-float
+
 TOKEN = "Your Telegram token here"
 
 # Enable logging
