@@ -1,0 +1,1 @@
+Baratto - Telegram bot to find the optimal currency exchange rate for EUR, USD, UAH, RUR.
