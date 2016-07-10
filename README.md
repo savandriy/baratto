@@ -1,5 +1,7 @@
 ### Baratto - Telegram bot to find the optimal currency exchange rate for multiple currencies in real time.
 
+## You can check out this bot live here - [Baratto](http://telegram.me/Barattobot)
+
 Currently supports EUR, USD, UAH, RUR. 
 
 To use this bot you will need a Telegram Bot API Token. 
